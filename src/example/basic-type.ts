@@ -79,3 +79,6 @@ const getLength = (target: string | number): number => {
     return target.toString().length 
   }
 }
+// let num2: number
+// num2 = getLength("area")
+// console.log(num2)

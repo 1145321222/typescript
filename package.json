@@ -14,15 +14,15 @@
   "author": "Hero",
   "license": "MIT",
   "devDependencies": {
-    "clean-webpack-plugin": "^2.0.0",
-    "cross-env": "^5.2.0",
+    "clean-webpack-plugin": "^2.0.2",
+    "cross-env": "^5.2.1",
     "html-webpack-plugin": "^3.2.0",
-    "ts-loader": "^5.3.3",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "ts-loader": "^5.4.5",
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
-    "typescript": "^3.3.3333"
+    "typescript": "^3.7.3"
   }
 }
